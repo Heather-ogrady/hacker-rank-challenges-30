@@ -1,4 +1,4 @@
-# HackerRank challenge Day 0
+# HackerRank challenge Day 1
 
 ## Challenge Details Below:
 
