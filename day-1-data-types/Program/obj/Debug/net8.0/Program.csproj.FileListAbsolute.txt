@@ -1,0 +1,15 @@
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/bin/Debug/net8.0/Program
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/bin/Debug/net8.0/Program.deps.json
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/bin/Debug/net8.0/Program.runtimeconfig.json
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/bin/Debug/net8.0/Program.dll
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/bin/Debug/net8.0/Program.pdb
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/Program.AssemblyInfoInputs.cache
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/Program.AssemblyInfo.cs
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/Program.csproj.CoreCompileInputs.cache
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/Program.sourcelink.json
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/Program.dll
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/refint/Program.dll
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/Program.pdb
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/Program.genruntimeconfig.cache
+/Users/heatherogrady/Projects/HackerRankChallenge30/day-1-data-types/Program/obj/Debug/net8.0/ref/Program.dll
